@@ -15,3 +15,4 @@ for(let i = 0; i < dogImages.length; i++){
     // dogImages[i].style.transform = "rotate(180deg)"
     dogImages[i].style.transform = "scale(-1, -1)"
 }
+
